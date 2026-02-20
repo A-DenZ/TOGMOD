@@ -5,3 +5,6 @@ C’est, en quelque sorte, un dernier geste — un hommage discret à une person
 Parce que certaines histoires ne s’oublient pas.
 Et certains chapitres, même lorsqu’ils se terminent, laissent une trace durable.
 
+"I love you. There is no limit to what I can give to you, no time I need. Even when this world is forgotten whisper of dust between the stars, I will love you."
+"To whatever end, Fireheart."
+
