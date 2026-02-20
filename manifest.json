@@ -1,0 +1,9 @@
+{
+  "name": "TogMod",
+  "description": "This mod adds a collection of valuable items inspired by the Throne of Glass book series by Sarah J. Maas. These items blend seamlessly into the game and bring a touch of fantasy and prestige to your world.",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "Zehs-REPOLib-3.0.3"
+  ],
+  "website_url": ""
+}
